@@ -1,0 +1,7 @@
+git commmit - records changes to repository
+git branch - creates branches off
+git checkout - switches the branch you on
+git pull - integrate with different repositories
+git push - updates clones to match the other
+git rebase - reforms code by making created code onto a new branch tip
+giit fetch downloads things from other repositories
